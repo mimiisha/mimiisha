@@ -5,8 +5,8 @@
 # 👋 Olá, eu sou o Misha
 
 💻 Apaixonado por tecnologia e design de mídias digitais.  
-🚀 Estudando **React, JavaScript, TypeScript, TailwindCSS, Node.js**  
-🎯 Buscando oportunidades em **Front-end e UX Design**
+🚀 Estudando **React, JavaScript, TypeScript, TailwindCSS, Node.js, C# e MySQL**  
+🎯 Buscando oportunidades em **Full Stack e UX Design**
 
 ---
 
