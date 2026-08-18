@@ -38,16 +38,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" height="60px"/>
 </p>
 
----
-
-## Meu Status do Github
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mimiisha&show_icons=true&theme=dark&locale=pt-br" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimiisha&layout=compact&theme=dark&locale=pt-br" width="320"/>
-</p>
-
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mimiisha&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
-</p>
